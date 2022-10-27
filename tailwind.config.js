@@ -14,7 +14,10 @@ module.exports = {
         "red-harry": "#AE0001",
         "bourdeaux-harry": "#740001",
       },
+      backgroundImage: {
+        hogwarts: "url('/assets/hogwarts.png')",
+      },
     },
   },
-  plugins: [],
+  plugins: [require("tailwindcss-textshadow")],
 };
