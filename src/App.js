@@ -1,13 +1,14 @@
-import { Routes, Route, BrowserRouter } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 import { Home } from "./components/Home";
 import { Page } from "./components/Page";
 
 function App() {
   return (
     <div className="w-screen h-screen ">
-      <BrowserRouter basename="harry-potter-routing-demo">
+      <Router basename="harry-potter-routing-demo">
         <Routes>
-          <Route exact path="/" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route
             path="houses"
             element={
@@ -36,7 +37,7 @@ function App() {
             }
           />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </div>
   );
 }
