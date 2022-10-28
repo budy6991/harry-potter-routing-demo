@@ -58,8 +58,10 @@ export const Page = ({ url, title }) => {
       <div className="w-full h-3/5 flex justify-center">
         {title === "Houses" ? (
           <DisplayCards houses={data} />
-        ) : title === "wizards" ? (
+        ) : title === "Wizards" ? (
           <DisplayCards wizards={data} />
+        ) : title === "Spells" ? (
+          <DisplayCards spells={data} />
         ) : null}
       </div>
     </div>
