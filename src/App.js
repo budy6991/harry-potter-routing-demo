@@ -5,7 +5,7 @@ import { Page } from "./components/Page";
 function App() {
   return (
     <div className="w-screen h-screen ">
-      <BrowserRouter>
+      <BrowserRouter basename="/harry-potter-routing-demo">
         <Routes>
           <Route path="/harry-potter-routing-demo" element={<Home />} />
           <Route
