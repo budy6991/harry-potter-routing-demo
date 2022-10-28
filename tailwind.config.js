@@ -13,6 +13,12 @@ module.exports = {
         "yellow-harry": "#EEBA30",
         "red-harry": "#AE0001",
         "bourdeaux-harry": "#740001",
+        "dark-green-slytherin": "#1A472A",
+        "green-slytherin": "#2A623D",
+        "dark-blue-ravenclaw": "#0E1A40",
+        "blue-ravenclaw": "#222F5B",
+        "yellow-hufflepuff": "#FFDB00",
+        "black-hufflepuff": "#000000",
       },
       backgroundImage: {
         hogwarts: "url('/assets/hogwarts.png')",
