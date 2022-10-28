@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="w-screen h-screen ">
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/harry-potter-routing-demo" element={<Home />} />
         <Route
           path="houses"
           element={
