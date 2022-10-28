@@ -19,7 +19,11 @@ export const DisplayCards = ({ houses, wizards }) => {
         />
       );
     });
-    return <div className="flex gap-20 h-fit w-fit">{displayAll}</div>;
+    return (
+      <div className="flex justify-center gap-20 h-full w-full">
+        {displayAll}
+      </div>
+    );
   }
 };
 

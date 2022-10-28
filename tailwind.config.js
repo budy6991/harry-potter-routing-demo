@@ -22,6 +22,10 @@ module.exports = {
       },
       backgroundImage: {
         hogwarts: "url('/assets/hogwarts.png')",
+        gryffindorlogo: "url('/assets/gryffindor-logo.png')",
+        slytherinLogo: "url('/assets/slytherin-logo.png')",
+        hufflepuffLogo: "url('/assets/hufflepuff-logo.png')",
+        ravenclawLogo: "url('/assets/ravenclaw-logo.png')",
       },
     },
   },

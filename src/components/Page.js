@@ -55,7 +55,7 @@ export const Page = ({ url, title }) => {
       <div className="p-6 m-6 text-6xl font-harry text-transparent bg-clip-text bg-gradient-to-b from-yellow-harry to-yellow-900">
         <h2>{title}</h2>
       </div>
-      <div className="w-3/5 h-3/5 flex">
+      <div className="w-full h-3/5 flex justify-center">
         {title === "Houses" ? (
           <DisplayCards houses={data} />
         ) : title === "wizards" ? (
