@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/harry-potter-routing-demo/static/css/main.c2287f3b.css",
+    "main.js": "/harry-potter-routing-demo/static/js/main.0d101035.js",
+    "static/js/787.ffadd41c.chunk.js": "/harry-potter-routing-demo/static/js/787.ffadd41c.chunk.js",
+    "static/media/ravenclaw-logo.png": "/harry-potter-routing-demo/static/media/ravenclaw-logo.9610bcde136dbfa89da6.png",
+    "static/media/hufflepuff-logo.png": "/harry-potter-routing-demo/static/media/hufflepuff-logo.f6d11a5457195a54f900.png",
+    "static/media/slytherin-logo.png": "/harry-potter-routing-demo/static/media/slytherin-logo.2f1ae1364423a77ea790.png",
+    "static/media/hogwarts.png": "/harry-potter-routing-demo/static/media/hogwarts.cc4fc679fa9207f5ade8.png",
+    "static/media/gryffindor-logo.png": "/harry-potter-routing-demo/static/media/gryffindor-logo.17106017a2f1cd9b1847.png",
+    "static/media/HARRP___.TTF": "/harry-potter-routing-demo/static/media/HARRP___.61090fcb66b8942c5664.TTF",
+    "index.html": "/harry-potter-routing-demo/index.html",
+    "main.c2287f3b.css.map": "/harry-potter-routing-demo/static/css/main.c2287f3b.css.map",
+    "main.0d101035.js.map": "/harry-potter-routing-demo/static/js/main.0d101035.js.map",
+    "787.ffadd41c.chunk.js.map": "/harry-potter-routing-demo/static/js/787.ffadd41c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2287f3b.css",
+    "static/js/main.0d101035.js"
+  ]
+}
